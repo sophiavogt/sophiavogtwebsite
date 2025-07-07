@@ -13,13 +13,9 @@ h1 {
     background-color: whitesmoke;
     display: inline-block;
     width: fit-content;
-    margin-left: 20px;
-    margin-right: 60px;
     margin-bottom: 20px;}
 
 p {
-    margin-left: 60px;
-    margin-right: auto;
     width: fit-content;
     padding: 10px;
     border: 1px solid rgb(76, 130, 143);
@@ -32,7 +28,6 @@ p {
 button {
     font-family: 'Courier New', Courier, monospace; 
     font-size: x-large;
-    margin-left: 60px;
     margin-bottom: 20px;
     border:black 1px solid;
     border-radius: 5px;
@@ -46,7 +41,6 @@ button {
 button:hover {
     font-family: 'Courier New', Courier, monospace; 
     font-size: x-large;
-    margin-left: 60px;
     border:black 1px solid;
     border-radius: 5px;
     cursor: pointer;   
