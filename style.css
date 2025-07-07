@@ -45,18 +45,18 @@ button {
     color: whitesmoke; 
     font-family: 'Courier New', Courier, monospace; 
     font-size: xx-large;
-    margin: 10px;
-    border: 1px solid black;
+    margin-bottom: 20px;
+    border: 1px solid rgb(157, 169, 229);
     border-radius: 5px;
     cursor: pointer;   
     }
 button:hover {
     background-color: rgb(76, 130, 143); 
-    color: gold; 
+    color:goldenrod; 
     font-family: 'Courier New', Courier, monospace; 
     font-size: xx-large;
-    margin: 10px;
-    border: 1px solid black;
+    margin-bottom: 20px;
+    border: 1px solid rgb(157, 169, 229);
     border-radius: 5px;
     cursor: pointer;   
     }

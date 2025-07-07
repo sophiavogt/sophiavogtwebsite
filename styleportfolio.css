@@ -58,16 +58,14 @@ button.backbutton{
     width: fit-content; 
     color: whitesmoke; 
     background-color: rgb(76, 130, 143);
-    margin-bottom: 0px;
-    margin-left: 20px;}
+    margin-bottom: 0px;}
 button.backbutton:hover{
     font-size: medium; 
     height: fit-content; 
     width: fit-content; 
     color: goldenrod; 
     background-color: rgb(76, 130, 143);
-    margin-bottom: 0px;
-    margin-left: 20px;}
+    margin-bottom: 0px;}
 
 /* span is for the subheadings of the buttons on the porfolio page */
 span.title{
